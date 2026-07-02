@@ -1,7 +1,7 @@
 <!-- Typing Animation -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Vinay+Chauhan;Backend+Developer+🚀;DSA+Enthusiast+💻;Problem+Solver+🔥">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Vinay+Chauhan;Full Stack Developer+🚀;DSA+Enthusiast+💻;Problem+Solver+🔥">
 </p>
 
 ---
@@ -73,7 +73,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+  <a href="https://www.linkedin.com/in/vinay-chauhan-b765aa251/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
   </a>
 </p>
