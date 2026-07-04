@@ -24,10 +24,10 @@
 
 ## 🚀 Current Focus
 
-* 📚 Mastering **DSA**
-* 🚗 Building **Scalable Backend Systems**
-* 🌐 Learning **Node.js, Express, APIs, DBMS**
-* 🧠 Strengthening **problem-solving skills**
+*  Mastering **DSA**
+*  Building **Scalable Backend Systems**
+*  Learning **Node.js, Express, APIs, DBMS**
+*  Strengthening **problem-solving skills**
 
 ---
 
